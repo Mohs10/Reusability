@@ -75,6 +75,13 @@
             <artifactId>extentreports</artifactId>
             <version>5.0.9</version>
         </dependency>
+       <!--- lambo -->
+       <dependency>
+           <groupId>org.projectlombok</groupId>
+           <artifactId>lombok</artifactId>
+           <version>1.18.24</version>
+           <scope>provided</scope>
+       </dependency>
         <!-- https://mvnrepository.com/artifact/com.codoid.products/fillo -->
         <dependency>
             <groupId>com.codoid.products</groupId>
